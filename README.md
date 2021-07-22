@@ -1,6 +1,6 @@
 # .Net 5 REST API C#
 
-[Create a REST API with .NET 5 and C#](https://www.freecodecamp.org/news/create-a-rest-api-with-dot-net-5-and-c-sharp/ "Create a REST API with .NET 5 and C#") an article from https://www.freecodecamp.org/ by [Beau Carnes](https://www.linkedin.com/in/beau-carnes "Beau Carnes") and video lectures from [Julio Casal](https://www.linkedin.com/in/juliocasal "Julio Casal")
+[Create a REST API with .NET 5 and C#](https://www.freecodecamp.org/news/create-a-rest-api-with-dot-net-5-and-c-sharp "Create a REST API with .NET 5 and C#") an article from www.freecodecamp.org by [Beau Carnes](https://www.linkedin.com/in/beau-carnes "Beau Carnes") and video lectures from [Julio Casal](https://www.linkedin.com/in/juliocasal "Julio Casal")
 
 ## Lection 1
 - The scenario to be used accross the tutorial
