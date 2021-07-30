@@ -25,3 +25,11 @@
 - How to map entities to DTOs
 
 [Lesson 3](https://www.youtube.com/watch?v=n7jmIG-0ORc "Lesson 3")
+
+## Lesson 4
+- How to create resources with POST
+- How to validate the values of DTO properties
+- How to update resources with PUT
+- How to delete resources with DELETE
+
+[Lesson 4](https://www.youtube.com/watch?v=g3QLOZ4SJHw "Lesson 4")
